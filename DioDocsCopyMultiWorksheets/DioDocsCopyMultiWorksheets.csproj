@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="GrapeCity.Documents.Excel" Version="6.1.2" />
+    <PackageReference Include="GrapeCity.DioDocs.Excel.ja" Version="6.1.1" />
   </ItemGroup>
 
   <ItemGroup>
